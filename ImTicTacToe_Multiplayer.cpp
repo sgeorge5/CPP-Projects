@@ -1,4 +1,3 @@
-// Shaun George (Recitation section: RI; Lecture Section: E)
 #include <iostream>
 #include <string>
 
